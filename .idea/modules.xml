@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays_And_Arraylists/Arrays_And_Arraylists.iml" filepath="$PROJECT_DIR$/Arrays_And_Arraylists/Arrays_And_Arraylists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_JAVA.iml" filepath="$PROJECT_DIR$/DSA_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRO/INTRO.iml" filepath="$PROJECT_DIR$/INTRO/INTRO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiD Array/MultiD Array.iml" filepath="$PROJECT_DIR$/MultiD Array/MultiD Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern_Printing/Pattern_Printing.iml" filepath="$PROJECT_DIR$/Pattern_Printing/Pattern_Printing.iml" />
+    </modules>
+  </component>
+</project>
