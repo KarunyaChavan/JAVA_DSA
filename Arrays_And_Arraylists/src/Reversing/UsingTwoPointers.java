@@ -10,8 +10,6 @@ public class UsingTwoPointers {
             int temp = arr[i];
             arr[i++] = arr[j];
             arr[j--] = temp;
-//            i++;
-//            j--;
         }
         System.out.print("Reversed Array - ");
         for(int ele:arr){
