@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays_And_Arraylists/Arrays_And_Arraylists.iml" filepath="$PROJECT_DIR$/Arrays_And_Arraylists/Arrays_And_Arraylists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicSortingAlgos/BasicSortingAlgos.iml" filepath="$PROJECT_DIR$/BasicSortingAlgos/BasicSortingAlgos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA_JAVA.iml" filepath="$PROJECT_DIR$/DSA_JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
