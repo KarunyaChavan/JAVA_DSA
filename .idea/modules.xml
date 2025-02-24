@@ -6,12 +6,15 @@
       <module fileurl="file://$PROJECT_DIR$/BasicSortingAlgos/BasicSortingAlgos.iml" filepath="$PROJECT_DIR$/BasicSortingAlgos/BasicSortingAlgos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/Binary_Search/Binary_Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CyclicSort/CyclicSort.iml" filepath="$PROJECT_DIR$/CyclicSort/CyclicSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA_JAVA.iml" filepath="$PROJECT_DIR$/DSA_JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/INTRO/INTRO.iml" filepath="$PROJECT_DIR$/INTRO/INTRO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge_Sort/Merge_Sort.iml" filepath="$PROJECT_DIR$/Merge_Sort/Merge_Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiD Array/MultiD Array.iml" filepath="$PROJECT_DIR$/MultiD Array/MultiD Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pattern_Printing/Pattern_Printing.iml" filepath="$PROJECT_DIR$/Pattern_Printing/Pattern_Printing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Time_Complexity/Time_Complexity.iml" filepath="$PROJECT_DIR$/Time_Complexity/Time_Complexity.iml" />
