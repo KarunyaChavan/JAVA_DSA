@@ -2,7 +2,7 @@ package Questions;
 
 public class StringCompression {
     public static void main(String[] args) {
-        String s = "kkkkkkkkaaaarruuuuunnnyaa";
+        String s = "kkkkkkkkaaaarruuuuunnnyaac";
         char[] arr = s.toCharArray();
         String ans = "";
         int i=0,j=0;

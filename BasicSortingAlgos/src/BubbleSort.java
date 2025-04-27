@@ -20,7 +20,7 @@ public class BubbleSort {
 					arr[j + 1] = temp;
 				}
 			}
-			if(!false) break;
+			if(!flag) break;
 		}
 		System.out.print("\nSorted Array : ");
 		print(arr);
