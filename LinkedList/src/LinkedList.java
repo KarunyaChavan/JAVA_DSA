@@ -1,19 +1,19 @@
 class Node{
 	int val;
-	Node next;
+	LinkNode next;
 	Node(int val){
 		this.val = val;
 	}
 }
 
 class SLL{
-	private Node head;
-	private Node tail;
+	private LinkNode head;
+	private LinkNode tail;
 	private int size;
 
 	//Insertion Methods
 	void insertAtHead(int val){
-		Node temp = new Node(val);
+		LinkNode temp = new LinkNode(val);
 		if(head == null) head = tail = temp;
 		else{
 			temp.next = head;
@@ -22,7 +22,7 @@ class SLL{
 		size++;
 	}
 	void insertAtTail(int val){
-		Node temp = new Node(val);
+		LinkNode temp = new LinkNode(val);
 		if(head == null) head = tail = temp;
 		else{
 			tail.next = temp;
@@ -39,8 +39,8 @@ class SLL{
 			size();
 			return;
 		} else {
-			Node temp = new Node(val);
-			Node ptr = head;
+			LinkNode temp = new LinkNode(val);
+			LinkNode ptr = head;
 			for (int i = 0; i < idx - 1; i++) {
 				ptr = ptr.next;
 			}
@@ -58,7 +58,7 @@ class SLL{
 			throw new Error("Invalid Index");
 		}
 		else{
-			Node ptr = head;
+			LinkNode ptr = head;
 			for (int i = 0; i < idx; i++) {
 				ptr = ptr.next;
 			}
@@ -80,7 +80,7 @@ class SLL{
 			throw new Error("Invalid Index");
 		}
 		else{
-			Node ptr = head;
+			LinkNode ptr = head;
 			for (int i = 0; i < idx; i++) {
 				ptr = ptr.next;
 			}
@@ -106,7 +106,7 @@ class SLL{
 			throw new Error("Invalid Index");
 		}
 		else{
-			Node temp = head;
+			LinkNode temp = head;
 			for(int i=0; i < idx - 1; i++){
 				temp = temp.next;
 			}
@@ -117,7 +117,7 @@ class SLL{
 
 	void deleteAtTail(){
 		if(head == null) throw new Error("List is empty");
-		Node temp = head;
+		LinkNode temp = head;
 		while(temp.next != tail){
 			temp = temp.next;
 		}
@@ -128,7 +128,7 @@ class SLL{
 
 	//Display Method
 	void display(){
-		Node temp = head;
+		LinkNode temp = head;
 		while(temp != null){
 			System.out.print(temp.val + " --> ");
 			temp = temp.next;
