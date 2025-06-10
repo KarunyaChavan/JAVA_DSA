@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Pattern_Printing/Pattern_Printing.iml" filepath="$PROJECT_DIR$/Pattern_Printing/Pattern_Printing.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Time_Complexity/Time_Complexity.iml" filepath="$PROJECT_DIR$/Time_Complexity/Time_Complexity.iml" />
     </modules>
