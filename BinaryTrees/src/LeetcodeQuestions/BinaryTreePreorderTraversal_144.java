@@ -1,6 +1,5 @@
 package LeetcodeQuestions;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 class TreeNode {
       int val;
@@ -23,9 +22,24 @@ public class BinaryTreePreorderTraversal_144 {
 		helper(root.right, ans);
 	}
 
+	//Recursive (Auxilary SC = O(n))
 	public List<Integer> preorderTraversal(TreeNode root) {
 		List<Integer> ans = new ArrayList<>();
 		helper(root, ans);
+		return ans;
+	}
+
+	//Iterative (Auxilary SC = O(ln(n)))
+	public List<Integer> preorderTraversalIter(TreeNode root) {
+		List<Integer> ans = new ArrayList<>();
+		Stack<TreeNode> st = new Stack<>();
+		if(root!=null) st.push(root);
+		while(!st.isEmpty()){
+			TreeNode top = st.pop();
+			ans.add(top.val);
+			if(top.right!=null) st.push(top.right); //as stack follows lifo, so we pushed right first to get left first
+			if(top.left!=null) st.push(top.left);
+		}
 		return ans;
 	}
 }
